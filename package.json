@@ -1,0 +1,28 @@
+{
+  "name": "nodetpl-loader",
+  "version": "1.0.0",
+  "description": "nodetpl-plus loader for webpack",
+  "readmeFilename": "README.md",
+  "keywords": [
+    "nodetpl",
+    "loader",
+    "webpack"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "pillys@163.com",
+  "repository": {
+    "url": "https://github.com/pillys/nodetpl-loader",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/pillys/nodetpl-loader/issues"
+  },
+  "homepage": "https://github.com/pillys/nodetpl-loader",
+  "dependencies": {
+    "nodetpl-plus": "^1.2.6"
+  },
+  "license": "MIT"
+}
