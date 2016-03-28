@@ -1,4 +1,8 @@
 # nodetpl-loader
+===
+
+[![Build Status](https://secure.travis-ci.org/pillys/nodetpl-loader.png?branch=master)](https://travis-ci.org/pillys/nodetpl-loader)
+
 
 nodetpl-plus loader for webpack
 
