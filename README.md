@@ -6,10 +6,7 @@
 
 nodetpl-plus loader for webpack
 
-
-## About Nodetpl
-
-See <https://github.com/pillys/nodetpl-plus>
+About nodetpl-plus see <https://github.com/pillys/nodetpl-plus>
 
 
 ## Usage
@@ -25,14 +22,11 @@ loaders: [{
   test: /\.(jsx?|tpl)$/,
   loader: 'babel',
   ...
-```
-
-```
+}],
 preLoaders: [{
   test: /\.tpl?$/,
-  include: 'some dir',
   loader: 'nodetpl'
-}
+}]
 ```
 
 ## Questions?
