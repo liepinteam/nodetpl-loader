@@ -1,6 +1,6 @@
 {
   "name": "nodetpl-loader",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "nodetpl-plus loader for webpack",
   "readmeFilename": "README.md",
   "keywords": [
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/pillys/nodetpl-loader",
   "dependencies": {
-    "nodetpl-plus": "^2.2.0"
+    "nodetpl-plus": "^2.3.0"
   },
   "license": "MIT"
 }
